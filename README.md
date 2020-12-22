@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### Recent Acitivies ✨
 <center>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslacerda&hide=html&layout=compact" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=nikolaslacerda&show_icons=true" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslacerda&hide=html&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=nikolaslacerda&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" /></td>
   </tr>  
 </center>
