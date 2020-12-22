@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 
 ### Technology Stack 👩‍💻
 
-<img align="left" alt="Java" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" />
-<img align="left" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img align="left" alt="Angular" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="Postgresql" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 
 <br />
