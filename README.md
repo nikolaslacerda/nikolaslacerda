@@ -16,7 +16,16 @@ I am passionate about technology, driven by challenges and I am constantly looki
 <br/> 😊 &nbsp; I can help you with Java, Spring and Angular. In tests, I can help you with JUnit;
 <br/> ⚡ &nbsp; Fun facts: I like technologies, games, songs and watch series on Netflix;
 </p>
-  
+
+### Technology Stack 👨‍💻
+
+<img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" />
+<img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="left" alt="Typescript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" alt="Postgresql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />  
+<br/>
+
 ### Contact me ✉️
 
 <a href="https://www.linkedin.com/in/nikolaslacerda/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
