@@ -16,8 +16,13 @@ I am passionate about technology, driven by challenges and I am constantly looki
 <br/> 😊 &nbsp; I can help you with Java, Spring and Angular. In tests, I can help you with JUnit;
 <br/> ⚡ &nbsp; Fun facts: I like technologies, games, songs and watch series on Netflix;
 </p>
+  
+### Contact me ✉️
 
-### Recent Acitivies
+<a href="https://www.linkedin.com/in/nikolaslacerda/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:nikolaslacerda55@gmail.com?subject=Ola%20Nikolas"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+
+### Recent Acitivies ✨
 <center>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslacerda&hide=html&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=0d1117&hide_border=true" /></td>
