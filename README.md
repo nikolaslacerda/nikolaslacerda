@@ -18,7 +18,7 @@ I am passionate about technology, driven by challenges and I am constantly looki
 </p>
 
 
-### Technology Stack 👨‍💻
+## Technology Stack 👨‍💻
 
 <img align="left" alt="Java" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-59-1174952.png" />
 <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
@@ -28,14 +28,14 @@ I am passionate about technology, driven by challenges and I am constantly looki
 <br/>
 
 
-### Contact me ✉️
+## Contact me ✉️
 
 <a href="https://www.linkedin.com/in/nikolaslacerda/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:nikolaslacerda55@gmail.com?subject=Ola%20Nikolas"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <br/>
 
 
-### Recent Acitivies ✨
+## Recent Acitivies ✨
 <center>
   <tr>
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolaslacerda&hide=html&layout=compact&title_color=fff&text_color=9f9f9f&bg_color=0d1117&hide_border=true" /></td>
