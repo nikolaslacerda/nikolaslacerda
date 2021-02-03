@@ -8,12 +8,12 @@
 My name is Nikolas Lacerda and I'm 22yo.
 I am computer science student, focused on front end and with great interest in the User Expercience area. I'm always seeking to learn new things that will make a difference in the user's interaction.
 </p>
-  
+
 <p><samp>
 🚀 &nbsp; I'm currently working at <b>Grupo Dimed</b> as a Software Developer Intern;
 <br/> 💜 &nbsp; I’m currently learning Elixir;
-<br/> :blush: &nbsp; I can help you with HTML, CSS Grid Layout e Flexbox, SASS, JS and ReactJS/Native. In tests, I can help you with Cypress.io;
-<br/> ⚡ Fun facts: I like technologies, games, songs and watch series on Netflix;
+<br/> 😊 &nbsp; I can help you with Java, Spring and Angular. In tests, I can help you with JUnit;
+<br/> ⚡ &nbsp; Fun facts: I like technologies, games, songs and watch series on Netflix;
 </p>
 
 ### Recent Acitivies
