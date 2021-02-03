@@ -6,8 +6,8 @@
 
 <p><samp>
 My name is Nikolas Lacerda and I'm 22yo.
-I am computer science student, focused on full stack development and with great interest in Java and Angular. 
-I am passionate about technology, driven by challenges and I am constantly looking to learn something new.
+I'm computer science student, focused on full stack development and with great interest in Java and Angular. 
+I'm passionate about technology, driven by challenges and I'm constantly looking to learn something new.
 </p>
 
 <p><samp>
