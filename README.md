@@ -8,15 +8,8 @@
 My name is Nikolas Lacerda and I'm 22yo.
 I'm computer science student, focused on full stack development and with great interest in Java and Angular. 
 I'm passionate about technology, driven by challenges and I'm constantly looking to learn something new.
+I'm currently working at <b>Grupo Dimed</b> as a Software Developer Intern.
 </p>
-
-<p><samp>
-🚀 &nbsp; I'm currently working at <b>Grupo Dimed</b> as a Software Developer Intern;
-<br/> 💜 &nbsp; I’m currently learning Elixir;
-<br/> 😊 &nbsp; I can help you with Java, Spring and Angular. In tests, I can help you with JUnit;
-<br/> ⚡ &nbsp; Fun facts: I like technologies, games, songs and watch series on Netflix;
-</p>
-
 
 ## Technology Stack 👨‍💻
 
