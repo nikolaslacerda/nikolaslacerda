@@ -5,7 +5,7 @@
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 <p><samp>
-My name is Nikolas Lacerda and I'm 22yo.
+My name is Nikolas Lacerda and I'm 23yo.
 I'm computer science student, focused on full stack development and with great interest in Java and Angular. 
 I'm passionate about technology, driven by challenges and I'm constantly looking to learn something new.
 I'm currently working at <b>Grupo Dimed</b> as a Software Developer.
